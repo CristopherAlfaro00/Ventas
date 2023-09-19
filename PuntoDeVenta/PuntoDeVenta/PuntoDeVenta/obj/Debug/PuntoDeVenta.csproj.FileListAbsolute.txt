@@ -1,0 +1,22 @@
+C:\Users\Admin\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.exe.config
+C:\Users\Admin\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.exe
+C:\Users\Admin\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.pdb
+C:\Users\Admin\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.Form1.resources
+C:\Users\Admin\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.Properties.Resources.resources
+C:\Users\Admin\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.exe
+C:\Users\Admin\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.pdb
+D:\VS Repositorios\PuntoDeVenta\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.exe.config
+D:\VS Repositorios\PuntoDeVenta\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.exe
+D:\VS Repositorios\PuntoDeVenta\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.pdb
+D:\VS Repositorios\PuntoDeVenta\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.csproj.AssemblyReference.cache
+D:\VS Repositorios\PuntoDeVenta\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.csproj.SuggestedBindingRedirects.cache
+D:\VS Repositorios\PuntoDeVenta\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.Form1.resources
+D:\VS Repositorios\PuntoDeVenta\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.Properties.Resources.resources
+D:\VS Repositorios\PuntoDeVenta\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.csproj.GenerateResource.cache
+D:\VS Repositorios\PuntoDeVenta\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.csproj.CoreCompileInputs.cache
+D:\VS Repositorios\PuntoDeVenta\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.exe
+D:\VS Repositorios\PuntoDeVenta\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.pdb
